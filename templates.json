@@ -4,7 +4,7 @@
       "package_json_hash": "f694d559b482c5f6b25959648a0538068f600f4e"
     },
     "chanfana-openapi-template": {
-      "package_json_hash": "50f8d335da80d43589c91d68df06b4db50c1e261"
+      "package_json_hash": "f591efeef4ad7b96fb8aac28ea9c26c658070915"
     },
     "d1-template": {
       "package_json_hash": "09962271d81e87284ce171e9d084ebe78ba82f35"
@@ -13,7 +13,7 @@
       "package_json_hash": "9cf0d344abb3ca89398d4b61c33447d62f989c32"
     },
     "llm-chat-app-template": {
-      "package_json_hash": "c18c9fe0b6f6fdf7eff9d30e017cd1a74c7648c6"
+      "package_json_hash": "19b57b3f035fa866c2f4f77083ca84937a5948c1"
     },
     "multiplayer-globe-template": {
       "package_json_hash": "44f36216e3ae73e3f6b87ba285875d35a71cd5e2"
@@ -28,16 +28,16 @@
       "package_json_hash": "1bf4363b6fc95e90519536abb5623ffa875d0921"
     },
     "react-postgres-fullstack-template": {
-      "package_json_hash": "1d716963f96f988e3b100aeb2b860005614754f8"
+      "package_json_hash": "177fd16bae26ae6a106184c1067d48d8c80d1072"
     },
     "react-router-hono-fullstack-template": {
-      "package_json_hash": "692e1af07448d6de0ef55be9d599ae9538eb9d6e"
+      "package_json_hash": "44a7c7864cb075b66a5f42d91e2ab01457e28f93"
     },
     "react-router-starter-template": {
-      "package_json_hash": "aa6246d8d47becf26d055e77cb221c76d03bb71a"
+      "package_json_hash": "ef203e95a16559fcee56396a9a498db286db5795"
     },
     "remix-starter-template": {
-      "package_json_hash": "0f155d0897220b16ef6d6f95dcafd96a5230d9c7"
+      "package_json_hash": "d592c1e1195456117a14c1f85b8714a8317e4372"
     },
     "saas-admin-template": {
       "package_json_hash": "a50f131bf5a54a096c9921d8ee135d980398972e"
@@ -46,13 +46,13 @@
       "package_json_hash": "548868516156e11a5c08815e4f54c287f688926a"
     },
     "to-do-list-kv-template": {
-      "package_json_hash": "14fd6d80b5847e347cb7cd2c5830b1b473ba75f8"
+      "package_json_hash": "dac5fba151dd17dc524800bc1b12bc453ddd472d"
     },
     "vite-react-template": {
-      "package_json_hash": "2366fd0c7b1602f8eff2063480bbbeae948127c9"
+      "package_json_hash": "4eb422c53145a94afcec0459b21663f91fdf7bf4"
     },
     "worker-publisher-template": {
-      "package_json_hash": "af9903b680c9a8dd50bb0491bb6f7c1818168e4d"
+      "package_json_hash": "077021bcbbe7d37e4e5043bbe21f3549627a4311"
     }
   }
 }
